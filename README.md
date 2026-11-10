@@ -190,4 +190,4 @@ This repository serves as the official landing page for ST PC Speed Monitor. The
 **Get the most recent version of ST PC Speed Monitor today!**
 
 ---
-**Last updated:** 2026-11-10 03:56:19 UTC
+**Last updated:** 2026-11-10 12:06:13 UTC
